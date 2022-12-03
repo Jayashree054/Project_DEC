@@ -1,0 +1,276 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 13,
+        "name": "login functionality",
+        "description": "",
+        "id": "adactin-hotel-booking;login-functionality;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3919946700,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "User need  to launch the application",
+            "match": {
+              "location": "Step_Definition.user_need_to_launch_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 239132300,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User enter the username \"Ishu@234\"in username field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Ishu@234",
+                  "offset": 25
+                }
+              ],
+              "location": "Step_Definition.user_enter_the_username_in_username_field(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 62014000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User enter Password \"Ishu@234\" in password field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Ishu@234",
+                  "offset": 21
+                }
+              ],
+              "location": "Step_Definition.user_enter_Password_in_password_field(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 389276800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User need to click on the login button",
+            "match": {
+              "location": "Step_Definition.user_need_to_click_on_the_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 38400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "It will navigate to search hotel page",
+            "match": {
+              "location": "Step_Definition.it_will_navigate_to_search_hotel_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "name": "login functionality",
+        "description": "",
+        "id": "adactin-hotel-booking;login-functionality;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 365628700,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "User need  to launch the application",
+            "match": {
+              "location": "Step_Definition.user_need_to_launch_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 96334300,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User enter the username \"Ajay@234\"in username field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Ajay@234",
+                  "offset": 25
+                }
+              ],
+              "location": "Step_Definition.user_enter_the_username_in_username_field(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 75076900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User enter Password \"Ajay@234\" in password field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Ajay@234",
+                  "offset": 21
+                }
+              ],
+              "location": "Step_Definition.user_enter_Password_in_password_field(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 348629400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User need to click on the login button",
+            "match": {
+              "location": "Step_Definition.user_need_to_click_on_the_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 20400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "It will navigate to search hotel page",
+            "match": {
+              "location": "Step_Definition.it_will_navigate_to_search_hotel_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 15,
+        "name": "login functionality",
+        "description": "",
+        "id": "adactin-hotel-booking;login-functionality;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 326221800,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "User need  to launch the application",
+            "match": {
+              "location": "Step_Definition.user_need_to_launch_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 93489000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User enter the username \"bony1234\"in username field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "bony1234",
+                  "offset": 25
+                }
+              ],
+              "location": "Step_Definition.user_enter_the_username_in_username_field(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 63483900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User enter Password \"bony@1234\" in password field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "bony@1234",
+                  "offset": 21
+                }
+              ],
+              "location": "Step_Definition.user_enter_Password_in_password_field(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2394376300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User need to click on the login button",
+            "match": {
+              "location": "Step_Definition.user_need_to_click_on_the_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 11100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "It will navigate to search hotel page",
+            "match": {
+              "location": "Step_Definition.it_will_navigate_to_search_hotel_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Adactin Hotel booking",
+    "description": "",
+    "id": "adactin-hotel-booking",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/cucumber/Feature_File.feature"
+  }
+]
